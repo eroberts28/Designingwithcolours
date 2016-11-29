@@ -1,4 +1,4 @@
-# EyeBombing :eyes: :bomb:
+# EyeBombing 
 ---
 _Eye Bombing is a project about seeing faces in everyday objects and other things in a different perspective!_
 ---
@@ -7,8 +7,6 @@ Meet the team;
 * [Emma](http://facebook.com/Emmaaa.xD)
 
 ### This project has helped us see every day objects in a different way, going around the local area and realising how many objects we can relate to the human face and seeing different human features. We have learnt alot about the way we see and how we an incorprate that into our design thinking.
-
-##Callum's Top 3
 
 ##Emma's Initial Images
 
